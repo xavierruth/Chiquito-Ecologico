@@ -8,7 +8,8 @@
     <a href="#-Como-Jogar">Como Jogar</a>&nbsp;&nbsp; | &nbsp;&nbsp;
     <a href="#-Funcionalidades">Funcionalidades</a>&nbsp;&nbsp; | &nbsp;&nbsp;
     <a href="#-Tecnologias-Utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp; | &nbsp;&nbsp;
-    <a href="#-Autores">Autores</a>&nbsp;&nbsp; &nbsp;&nbsp;
+    <a href="#-Autores">Autores</a>&nbsp;&nbsp; &nbsp;&nbsp; | &nbsp;&nbsp;
+    <a href="#-Mentores">Mentores</a>&nbsp;&nbsp; 
 </p>
 
 
@@ -69,3 +70,14 @@
 #### Vanessa Matias 
 - [Linkedin](https://www.linkedin.com/in/vanessamatiasdev/)
 - [Github](https://github.com/Vanessa-Matias)
+
+## Mentores 
+
+#### Arnott Caiado - Direção de Projeto / P.O
+- [Linkedin](https://www.linkedin.com/in/arnottcaiado/)
+- [Github](https://github.com/arnottrcaiado)
+
+#### Samantha Pimentel - Direção Criativa / Designer
+- [Linkedin](https://www.linkedin.com/in/samantha-pimentel-54207292/)
+- [Github](https://github.com/PimentelSamantha)
+- [Behance](https://www.behance.net/samanthpimente)
