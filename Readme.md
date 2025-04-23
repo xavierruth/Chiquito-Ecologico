@@ -73,11 +73,11 @@
 
 ## Mentores 
 
-#### Arnott Caiado - Direção de Projeto / P.O
+#### Arnott Caiado 
 - [Linkedin](https://www.linkedin.com/in/arnottcaiado/)
 - [Github](https://github.com/arnottrcaiado)
 
-#### Samantha Pimentel - Direção Criativa / Designer
+#### Samantha Pimentel 
 - [Linkedin](https://www.linkedin.com/in/samantha-pimentel-54207292/)
 - [Github](https://github.com/PimentelSamantha)
 - [Behance](https://www.behance.net/samanthpimente)
